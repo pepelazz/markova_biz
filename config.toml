@@ -1,0 +1,23 @@
+baseURL = "http://markova.biz"
+languageCode = "en-us"
+title = "Маркова В.Д."
+theme = "nla"
+MetaDataFormat = "toml"
+Paginate = 10
+
+[taxonomies]
+    tag = "tags"
+    blogtag = "blogtags"
+
+#
+#[[menu.main]]
+#    name = "ПРОДУКТЫ"
+#    weight = -100
+#    identifier = "product"
+#    url = "/post/"
+#[[menu.main]]
+#    name = "EduAi"
+#    weight = -100
+#    parent = "product"
+#    identifier = "eduai"
+#    url = "/eduai/"
