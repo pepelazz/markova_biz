@@ -9,12 +9,12 @@ Paginate = 10
     tag = "tags"
     blogtag = "blogtags"
 
-#
-#[[menu.main]]
-#    name = "ПРОДУКТЫ"
-#    weight = -100
-#    identifier = "product"
-#    url = "/post/"
+
+[[menu.main]]
+    name = "БЛОГ"
+    weight = -100
+    identifier = "blog"
+    url = "/blog/"
 #[[menu.main]]
 #    name = "EduAi"
 #    weight = -100
