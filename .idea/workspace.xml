@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="035e95a4-e486-4008-946e-e4366799ff64" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public" afterPath="$PROJECT_DIR$/public" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init.bat" afterPath="$PROJECT_DIR$/init.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init_project.sh" afterPath="$PROJECT_DIR$/init_project.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -559,12 +558,12 @@
       <option name="presentableId" value="Default" />
       <updated>1538832498058</updated>
       <workItem from="1538832501053" duration="1554000" />
-      <workItem from="1539083515657" duration="2351000" />
+      <workItem from="1539083515657" duration="3603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3905000" />
+    <option name="totallyTimeSpent" value="5157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1426" height="813" extended-state="0" />
